@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "projects/*",   
+    "chapters/*/*",  
+]
+
+resolver = "2"
